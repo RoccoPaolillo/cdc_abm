@@ -1,0 +1,241 @@
+unit;gender;age;hpt;hf;value
+FROSINONE;male;30;yes;yes;0
+FROSINONE;male;30;yes;no;147
+FROSINONE;male;30;no;yes;16
+FROSINONE;male;30;no;no;66282
+FROSINONE;male;3060;yes;yes;39
+FROSINONE;male;3060;yes;no;12551
+FROSINONE;male;3060;no;yes;280
+FROSINONE;male;3060;no;no;89501
+FROSINONE;male;60100;yes;yes;2128
+FROSINONE;male;60100;yes;no;42295
+FROSINONE;male;60100;no;yes;1441
+FROSINONE;male;60100;no;no;28629
+FROSINONE;female;30;yes;yes;0
+FROSINONE;female;30;yes;no;152
+FROSINONE;female;30;no;yes;16
+FROSINONE;female;30;no;no;68311
+FROSINONE;female;3060;yes;yes;40
+FROSINONE;female;3060;yes;no;12935
+FROSINONE;female;3060;no;yes;288
+FROSINONE;female;3060;no;no;92242
+FROSINONE;female;60100;yes;yes;2193
+FROSINONE;female;60100;yes;no;43590
+FROSINONE;female;60100;no;yes;1485
+FROSINONE;female;60100;no;no;29505
+LATINA;male;30;yes;yes;0
+LATINA;male;30;yes;no;199
+LATINA;male;30;no;yes;22
+LATINA;male;30;no;no;89456
+LATINA;male;3060;yes;yes;49
+LATINA;male;3060;yes;no;13463
+LATINA;male;3060;no;yes;448
+LATINA;male;3060;no;no;123082
+LATINA;male;60100;yes;yes;2457
+LATINA;male;60100;yes;no;44773
+LATINA;male;60100;no;yes;1872
+LATINA;male;60100;no;no;34102
+LATINA;female;30;yes;yes;0
+LATINA;female;30;yes;no;200
+LATINA;female;30;no;yes;22
+LATINA;female;30;no;no;89545
+LATINA;female;3060;yes;yes;49
+LATINA;female;3060;yes;no;13477
+LATINA;female;3060;no;yes;449
+LATINA;female;3060;no;no;123204
+LATINA;female;60100;yes;yes;2460
+LATINA;female;60100;yes;no;44818
+LATINA;female;60100;no;yes;1874
+LATINA;female;60100;no;no;34136
+RIETI;male;30;yes;yes;0
+RIETI;male;30;yes;no;38
+RIETI;male;30;no;yes;0
+RIETI;male;30;no;no;21152
+RIETI;male;3060;yes;yes;14
+RIETI;male;3060;yes;no;3924
+RIETI;male;3060;no;yes;112
+RIETI;male;3060;no;no;30679
+RIETI;male;60100;yes;yes;851
+RIETI;male;60100;yes;no;13860
+RIETI;male;60100;no;yes;666
+RIETI;male;60100;no;no;10853
+RIETI;female;30;yes;yes;0
+RIETI;female;30;yes;no;38
+RIETI;female;30;no;yes;0
+RIETI;female;30;no;no;21168
+RIETI;female;3060;yes;yes;14
+RIETI;female;3060;yes;no;3927
+RIETI;female;3060;no;yes;113
+RIETI;female;3060;no;no;30702
+RIETI;female;60100;yes;yes;852
+RIETI;female;60100;yes;no;13871
+RIETI;female;60100;no;yes;667
+RIETI;female;60100;no;no;10861
+ROMA 1;male;30;yes;yes;0
+ROMA 1;male;30;yes;no;252
+ROMA 1;male;30;no;yes;37
+ROMA 1;male;30;no;no;136057
+ROMA 1;male;3060;yes;yes;43
+ROMA 1;male;3060;yes;no;16511
+ROMA 1;male;3060;no;yes;567
+ROMA 1;male;3060;no;no;218272
+ROMA 1;male;60100;yes;yes;3215
+ROMA 1;male;60100;yes;no;68986
+ROMA 1;male;60100;no;yes;3582
+ROMA 1;male;60100;no;no;76862
+ROMA 1;female;30;yes;yes;0
+ROMA 1;female;30;yes;no;288
+ROMA 1;female;30;no;yes;42
+ROMA 1;female;30;no;no;155508
+ROMA 1;female;3060;yes;yes;49
+ROMA 1;female;3060;yes;no;18872
+ROMA 1;female;3060;no;yes;649
+ROMA 1;female;3060;no;no;249477
+ROMA 1;female;60100;yes;yes;3674
+ROMA 1;female;60100;yes;no;78848
+ROMA 1;female;60100;no;yes;4094
+ROMA 1;female;60100;no;no;87850
+ROMA 2;male;30;yes;yes;0
+ROMA 2;male;30;yes;no;387
+ROMA 2;male;30;no;yes;56
+ROMA 2;male;30;no;no;185191
+ROMA 2;male;3060;yes;yes;73
+ROMA 2;male;3060;yes;no;25772
+ROMA 2;male;3060;no;yes;791
+ROMA 2;male;3060;no;no;277669
+ROMA 2;male;60100;yes;yes;4856
+ROMA 2;male;60100;yes;no;94537
+ROMA 2;male;60100;no;yes;4118
+ROMA 2;male;60100;no;no;80168
+ROMA 2;female;30;yes;yes;0
+ROMA 2;female;30;yes;no;415
+ROMA 2;female;30;no;yes;60
+ROMA 2;female;30;no;no;198267
+ROMA 2;female;3060;yes;yes;79
+ROMA 2;female;3060;yes;no;27592
+ROMA 2;female;3060;no;yes;847
+ROMA 2;female;3060;no;no;297275
+ROMA 2;female;60100;yes;yes;5199
+ROMA 2;female;60100;yes;no;101212
+ROMA 2;female;60100;no;yes;4409
+ROMA 2;female;60100;no;no;85828
+ROMA 3;male;30;yes;yes;0
+ROMA 3;male;30;yes;no;181
+ROMA 3;male;30;no;yes;25
+ROMA 3;male;30;no;no;87132
+ROMA 3;male;3060;yes;yes;32
+ROMA 3;male;3060;yes;no;11585
+ROMA 3;male;3060;no;yes;360
+ROMA 3;male;3060;no;no;130331
+ROMA 3;male;60100;yes;yes;2048
+ROMA 3;male;60100;yes;no;42142
+ROMA 3;male;60100;no;yes;1901
+ROMA 3;male;60100;no;no;39118
+ROMA 3;female;30;yes;yes;0
+ROMA 3;female;30;yes;no;198
+ROMA 3;female;30;no;yes;27
+ROMA 3;female;30;no;no;95328
+ROMA 3;female;3060;yes;yes;35
+ROMA 3;female;3060;yes;no;12674
+ROMA 3;female;3060;no;yes;393
+ROMA 3;female;3060;no;no;142590
+ROMA 3;female;60100;yes;yes;2241
+ROMA 3;female;60100;yes;no;46106
+ROMA 3;female;60100;no;yes;2080
+ROMA 3;female;60100;no;no;42798
+ROMA 4;male;30;yes;yes;0
+ROMA 4;male;30;yes;no;97
+ROMA 4;male;30;no;yes;9
+ROMA 4;male;30;no;no;49192
+ROMA 4;male;3060;yes;yes;20
+ROMA 4;male;3060;yes;no;7016
+ROMA 4;male;3060;no;yes;208
+ROMA 4;male;3060;no;no;72790
+ROMA 4;male;60100;yes;yes;1074
+ROMA 4;male;60100;yes;no;23087
+ROMA 4;male;60100;no;yes;984
+ROMA 4;male;60100;no;no;21162
+ROMA 4;female;30;yes;yes;0
+ROMA 4;female;30;yes;no;101
+ROMA 4;female;30;no;yes;9
+ROMA 4;female;30;no;no;51433
+ROMA 4;female;3060;yes;yes;21
+ROMA 4;female;3060;yes;no;7335
+ROMA 4;female;3060;no;yes;218
+ROMA 4;female;3060;no;no;76104
+ROMA 4;female;60100;yes;yes;1123
+ROMA 4;female;60100;yes;no;24138
+ROMA 4;female;60100;no;yes;1029
+ROMA 4;female;60100;no;no;22126
+ROMA 5;male;30;yes;yes;0
+ROMA 5;male;30;yes;no;172
+ROMA 5;male;30;no;yes;14
+ROMA 5;male;30;no;no;79921
+ROMA 5;male;3060;yes;yes;40
+ROMA 5;male;3060;yes;no;12544
+ROMA 5;male;3060;no;yes;354
+ROMA 5;male;3060;no;no;111072
+ROMA 5;male;60100;yes;yes;1988
+ROMA 5;male;60100;yes;no;37027
+ROMA 5;male;60100;no;yes;1501
+ROMA 5;male;60100;no;no;27957
+ROMA 5;female;30;yes;yes;0
+ROMA 5;female;30;yes;no;175
+ROMA 5;female;30;no;yes;15
+ROMA 5;female;30;no;no;81408
+ROMA 5;female;3060;yes;yes;41
+ROMA 5;female;3060;yes;no;12778
+ROMA 5;female;3060;no;yes;361
+ROMA 5;female;3060;no;no;113139
+ROMA 5;female;60100;yes;yes;2025
+ROMA 5;female;60100;yes;no;37716
+ROMA 5;female;60100;no;yes;1529
+ROMA 5;female;60100;no;no;28477
+ROMA 6;male;30;yes;yes;0
+ROMA 6;male;30;yes;no;183
+ROMA 6;male;30;no;yes;22
+ROMA 6;male;30;no;no;87901
+ROMA 6;male;3060;yes;yes;43
+ROMA 6;male;3060;yes;no;12793
+ROMA 6;male;3060;no;yes;432
+ROMA 6;male;3060;no;no;127988
+ROMA 6;male;60100;yes;yes;2258
+ROMA 6;male;60100;yes;no;41495
+ROMA 6;male;60100;no;yes;1909
+ROMA 6;male;60100;no;no;35086
+ROMA 6;female;30;yes;yes;0
+ROMA 6;female;30;yes;no;187
+ROMA 6;female;30;no;yes;22
+ROMA 6;female;30;no;no;90232
+ROMA 6;female;3060;yes;yes;44
+ROMA 6;female;3060;yes;no;13132
+ROMA 6;female;3060;no;yes;443
+ROMA 6;female;3060;no;no;131382
+ROMA 6;female;60100;yes;yes;2317
+ROMA 6;female;60100;yes;no;42596
+ROMA 6;female;60100;no;yes;1959
+ROMA 6;female;60100;no;no;36017
+VITERBO;male;30;yes;yes;0
+VITERBO;male;30;yes;no;67
+VITERBO;male;30;no;yes;4
+VITERBO;male;30;no;no;43146
+VITERBO;male;3060;yes;yes;18
+VITERBO;male;3060;yes;no;6342
+VITERBO;male;3060;no;yes;188
+VITERBO;male;3060;no;no;66051
+VITERBO;male;60100;yes;yes;1268
+VITERBO;male;60100;yes;no;24935
+VITERBO;male;60100;no;yes;1183
+VITERBO;male;60100;no;no;23267
+VITERBO;female;30;yes;yes;0
+VITERBO;female;30;yes;no;69
+VITERBO;female;30;no;yes;5
+VITERBO;female;30;no;no;44615
+VITERBO;female;3060;yes;yes;19
+VITERBO;female;3060;yes;no;6558
+VITERBO;female;3060;no;yes;195
+VITERBO;female;3060;no;no;68300
+VITERBO;female;60100;yes;yes;1311
+VITERBO;female;60100;yes;no;25784
+VITERBO;female;60100;no;yes;1223
+VITERBO;female;60100;no;no;24059
